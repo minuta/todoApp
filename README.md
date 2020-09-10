@@ -3,7 +3,7 @@ A simple todo app, that uses REST to work with a todo list.
 The data will be persisted in a virtual database, that is flushed if
 you stop the application server. 
 
-The application is based on the Jakarta EE 8, Payara Micro Maven Plugin and tested with
+The application is based on the Jakarta EE 8, Airhacks Maven Archetype, Payara Micro Maven Plugin and tested with
 the Insomnia Core.
 
 # RUN
@@ -41,3 +41,6 @@ https://www.payara.fish/products/payara-micro/
 
 Insomnia Code:
 https://insomnia.rest/products/core/
+
+Airhacks Maven Archetype:
+https://mvnrepository.com/artifact/com.airhacks/javaee8-essentials-archetype/0.0.4 
